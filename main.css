@@ -15,5 +15,9 @@ p {
   font-size: 14px;
   font-family: Arial
 }
+div {
+    background-color: darkcyan;   /* greenish background */
+    text-align: right;            /* moves logo to the right */
+}
 
 
